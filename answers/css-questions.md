@@ -2,7 +2,7 @@
 
 #### What is the difference between classes and ID's in CSS?
 
-*Not answered yet*
+Both classes and IDs allow for specific styles to be applied to a certain object or group. However, while IDs can only be once, classes and their corresponding styles can be applied to multiple parts of a webpage.
 
 #### What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 
